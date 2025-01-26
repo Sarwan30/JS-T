@@ -48,4 +48,3 @@ console.log(addthree(2,3));
 
 
 const myArray = [1,2,3,4,5,3];
-myArray.forEach(() => ())
